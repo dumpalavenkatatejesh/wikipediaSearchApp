@@ -4,7 +4,8 @@ This is a simple and responsive web application that allows users to search Wiki
 ![image](https://github.com/user-attachments/assets/72676c2c-f75a-4fd7-9a8f-e22c1b7848d7)
 
 **Deployment LINK**
-searchcc.ccbp.tech   paste this link in browser
+
+(searchcc.ccbp.tech)  paste this link in browser
 
 
 **🚀 Features**
