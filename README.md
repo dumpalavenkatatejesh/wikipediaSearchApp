@@ -5,7 +5,7 @@ This is a simple and responsive web application that allows users to search Wiki
 
 **Deployment LINK**
 
-(searchcc.ccbp.tech)  paste this link in browser
+ (https://searchdetail.ccbp.tech/) paste this link in browser
 
 
 **🚀 Features**
